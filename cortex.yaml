@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-medusa
+  x-cortex-tag: monster-medusa
+x-cortex-custom-data:
+  alignment: neutral
+  challenge_rating: 6
+  legendary: false
+  source: dnd-5e
+  type: monstrosity
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-medusa
+x-cortex-type: monster
